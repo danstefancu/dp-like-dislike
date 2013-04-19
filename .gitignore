@@ -1,0 +1,15 @@
+wp-content/gallery
+wp-content/gd-star-rating
+wp-content/uploads
+wp-content/blogs.dir
+cache
+wp-config.php
+advanced-cache.php
+wp-cache-config.php
+*.swf
+*.log
+*.swp
+*~
+.idea
+.htaccess
+.DS_Store
